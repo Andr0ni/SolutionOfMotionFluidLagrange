@@ -10,3 +10,8 @@ This project only rely on some very basic python libraries:
 3. matplotlib
 
 # Examples
+![image](https://github.com/Andr0ni/SolutionOfMotionFluidLagrange/blob/main/Example%201%20.gif)
+
+![image](https://github.com/Andr0ni/SolutionOfMotionFluidLagrange/blob/main/Example%202.gif)
+
+![image](https://github.com/Andr0ni/SolutionOfMotionFluidLagrange/blob/main/Example%203.gif)
