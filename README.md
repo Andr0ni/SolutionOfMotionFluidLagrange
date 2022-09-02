@@ -1,2 +1,4 @@
 # SolutionOfMotionFluidLagrange
-Numerical solution of one-dimensional equations motion of an inviscid compressible fluid (gas) in Lagrange variables.
+Numerical solution of the equations of one-dimensional motion of an inviscid compressible fluid (gas) in Lagrange variables using the numerical scheme of Richtmyer and Morton:
+
+• Схема с искусственной вязкостью
